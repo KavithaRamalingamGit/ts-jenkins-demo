@@ -1,0 +1,16 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.380436999999991">
+<testsuite name="Hover.spec.ts" timestamp="2026-02-20T17:52:51.185Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.551" errors="0">
+<testcase name="Hover footer items test" classname="Hover.spec.ts" time="4.551">
+<system-out>
+<![CDATA[[33m18[39m
+
+[[ATTACHMENT|../test-results/Hover-Hover-footer-items-test-chromium/test-finished-1.png]]
+
+[[ATTACHMENT|../test-results/Hover-Hover-footer-items-test-chromium/video.webm]]
+
+[[ATTACHMENT|../test-results/Hover-Hover-footer-items-test-chromium/trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
